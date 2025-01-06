@@ -1,1 +1,7 @@
-{}
+{
+    "clangd.fallbackflags": [
+    "-I${workspacefolder}/libraries/stm32f10x_stdperiph_driver/inc",
+    "-I${workspacefolder}/libraries/cmsis",
+    "-I${workspacefolder}/user"
+]
+}
