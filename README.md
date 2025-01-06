@@ -33,3 +33,9 @@
 [项目链接](https://github.com/See-YouL/JX-Project/tree/main/GPIO_OUT_LED-Flashing)
 
 [笔记文件链接](https://github.com/See-YouL/JX-Project/blob/main/GPIO_OUT_LED-Flashing/Doc/README.md)
+
+### LED跑马灯
+
+[项目链接](https://github.com/See-YouL/JX-Project/tree/main/GPIO_OUT_LED-Running)
+
+[笔记文件链接](https://github.com/See-YouL/JX-Project/blob/main/GPIO_OUT_LED-Running/Doc/README.md)
