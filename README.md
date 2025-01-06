@@ -12,6 +12,6 @@
 
 ### LED闪烁
 
-项目地址: **GPIO_OUT_LED-Flashing**
+[项目地址](https://github.com/See-YouL/JX-Project/tree/main/GPIO_OUT_LED-Flashing)
 
-笔记文件地址: **GPIO_OUT_LED_Flashing/Doc/README.md**
+[笔记文件地址](https://github.com/See-YouL/JX-Project/blob/main/GPIO_OUT_LED-Flashing/Doc/README.md)
