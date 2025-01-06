@@ -8,7 +8,7 @@
 
 ## GPIO输出
 
-[理论内容链接](https://www.bilibili.com/video/BV1th411z7sn/?p=5&share_source=copy_web&vd_source=0db47c15b9f51dbaa4548ec2dc55dea4)
+[理论内容视频链接Bilibili](https://www.bilibili.com/video/BV1th411z7sn/?p=5&share_source=copy_web&vd_source=0db47c15b9f51dbaa4548ec2dc55dea4)
 
 ### LED闪烁
 
