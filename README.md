@@ -7,6 +7,7 @@
 - 开发版: 野火霸道V2开发版
 - 烧录设备: dap下载器
 - 软件开发环境: Vscode(EIDE插件) + MDK
+- 手册: 使用Doxygen生成的手册在项目文件夹下的Doc/html/index.html
 
 [B站参考视频链接](https://www.bilibili.com/video/BV1th411z7sn/?share_source=copy_web&vd_source=0db47c15b9f51dbaa4548ec2dc55dea4)
 
