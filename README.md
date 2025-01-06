@@ -10,6 +10,8 @@
 
 [B站参考视频链接](https://www.bilibili.com/video/BV1th411z7sn/?share_source=copy_web&vd_source=0db47c15b9f51dbaa4548ec2dc55dea4)
 
+[江协科技资料链接](https://jiangxiekeji.com/download.html)
+
 ### 配置VScode
 
 使用Vscode + EIDE进行开发(主要插件**EIDE**)
