@@ -24,6 +24,10 @@
             "titleBar.inactiveBackground": "#eec09d99",
             "titleBar.inactiveForeground": "#15202b99"
         },
-        "peacock.color": "#eec09d"
+        "peacock.color": "#eec09d",
+        "files.associations": {
+            "*.c": "c",
+            "delay.h": "c"
+        }
     }
 }
