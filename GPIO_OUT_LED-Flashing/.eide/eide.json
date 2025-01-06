@@ -118,7 +118,20 @@
             "path": "User/stm32f10x_it.c"
           }
         ],
-        "folders": []
+        "folders": [
+          {
+            "name": "DELAY",
+            "files": [
+              {
+                "path": "User/Delay/Delay.c"
+              },
+              {
+                "path": "User/Delay/Delay.h"
+              }
+            ],
+            "folders": []
+          }
+        ]
       }
     ]
   },
@@ -276,7 +289,8 @@
           "User",
           ".cmsis/include",
           "Project/RTE/_Target 1",
-          "Libraries"
+          "Libraries",
+          "User/Delay"
         ],
         "libList": [],
         "defineList": [

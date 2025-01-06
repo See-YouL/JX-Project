@@ -6,7 +6,8 @@
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/Libraries/STM32F10x_StdPeriph_Driver/inc/**",
                 "${workspaceFolder}/Libraries/CMSIS/**",
-                "${workspaceFolder}/User/**"
+                "${workspaceFolder}/User/**",
+                "${workspaceFolder}/User/Delay/**"
 
             ],
             "defines": [
